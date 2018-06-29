@@ -47,6 +47,8 @@ Web application created in Python using the Django framework.
 
 - Django 1.11
 
+- MySQL 5.7.20-log MySQL Community Server (GPL)
+
 - MySQL Workbench 6.3
 
 
