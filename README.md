@@ -8,7 +8,7 @@ Web application created in Python using the Django framework.
 
 1. Clone the repository to your local workspace.
 
-2. Inside your 'restproject' folder, open your settings.py file. Here, kindly input in the appropriate details under the 'DATABASES' tuple,
+2. Inside your 'restproject' folder, open your settings.py file. Here, kindly input in the appropriate details under the 'DATABASES' tuple.
 
 3. Save and close the file.
 
